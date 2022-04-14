@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'duprigr1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DE5E0B9F580A483582559C200AAC1CB8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_02EF1DBAB54E45F0BA2E0A029F41213C }}
           package: '*.jar'
